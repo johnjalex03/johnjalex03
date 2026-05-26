@@ -1,4 +1,4 @@
-# Hi, I'm John Alexander
+# Hi, I'm John Alexander 👋
 
 Mechatronics engineer with a focus on hardware design, embedded systems, and robotics — 
 comfortable working across the full stack from PCB layout to firmware to autonomous systems.
@@ -8,11 +8,11 @@ Currently finishing my degree at SFU and looking for full-time roles.
 ---
 
 Currently interested in:
-- High-speed PCB design
-- Robotics perception & state estimation
-- UAV autonomy and sensor fusion
-- Autonomous Mobile Robots
-- Edge AI and hardware acceleration
+- High-speed digital and mixed-signal hardware design
+- Embedded systems and edge computing
+- Robotics perception, localization, and sensor fusion
+- Autonomous systems and UAV platforms
+- AI acceleration and intelligent embedded hardware
 
 ---
 
@@ -42,8 +42,8 @@ Autonomous UAV-based environmental sensing platform for GNSS-denied indoor envir
 
 **Programming Languages**
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Embedded C](https://img.shields.io/badge/Embedded%20C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logoColor=white)
 ![ARM Assembly](https://img.shields.io/badge/ARM%20Assembly-0091BD?style=for-the-badge&logo=arm&logoColor=white)
