@@ -17,7 +17,7 @@ Currently interested in:
 ---
 
 ### Custom Zynq-7000 SoC Carrier Board
-Custom development board targeting SDR and UAV flight control applications.
+Development board targeting SDR and UAV flight control applications.
 - AMD XC7Z010-2CLG400I — dual ARM Cortex-A9 + Artix-7 FPGA fabric
 - 10-layer PCB — DDR3L fly-by routing, dual GbE, USB 2.0 HS, SYZYGY expansion
 - Designed entirely in Altium without SI simulation tools
