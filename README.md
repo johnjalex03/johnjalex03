@@ -15,8 +15,9 @@ Currently interested in:
 - AI acceleration and intelligent embedded hardware
 
 ---
+## Featured Projects 👾
 
-### Custom Zynq-7000 SoC Carrier Board
+### Custom Zynq-7000 SoC Carrier Board 
 Development board targeting SDR and UAV flight control applications.
 - AMD XC7Z010-2CLG400I — dual ARM Cortex-A9 + Artix-7 FPGA fabric
 - 10-layer PCB — DDR3L fly-by routing, dual GbE, USB 2.0 HS, SYZYGY expansion
