@@ -1,6 +1,6 @@
 # Hi, I'm John Alexander 👋
 
-Mechatronics engineer with a focus on hardware design, embedded systems, and robotics — 
+I am Mechatronics engineer with a focus on hardware design, embedded systems, and robotics — 
 comfortable working across the full stack from PCB layout to firmware to autonomous systems.
 
 Currently finishing my degree at SFU and looking for full-time roles.
