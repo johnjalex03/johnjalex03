@@ -27,7 +27,7 @@ High-speed development board targeting SDR and UAV flight control applications.
 Autonomous sensing payload for GNSS-denied indoor environments, spanning 
 GPS-denied perception through to ML-based spatial field reconstruction.
 
-- **Perception & Localization**: ORB-SLAM3 visual-inertial odometry on 
+- **Perception & Localization**: ORB-SLAM3 visual-inertial odometry and SLAM on 
   Raspberry Pi 5 + Intel RealSense D435i for robust state estimation without GPS
 - **Spatial Modelling**: Gaussian process model with deep kernel learning for 
   reconstructing full CO₂ concentration fields from sparse AMR samples
