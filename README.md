@@ -86,6 +86,13 @@ GPS-denied perception through to ML-based spatial field reconstruction.
 ![Soldering & Rework](https://img.shields.io/badge/Soldering%20%26%20Rework-555555?style=for-the-badge&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
+**Mechanical**
+
+![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6600?style=for-the-badge&logo=autodesk&logoColor=white)
+![FDM 3D Printing](https://img.shields.io/badge/FDM%203D%20Printing-555555?style=for-the-badge&logoColor=white)
+![GD&T](https://img.shields.io/badge/GD%26T-555555?style=for-the-badge&logoColor=white)
+
 **Frameworks & Libraries**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
