@@ -23,7 +23,7 @@ High-speed development board targeting SDR and UAV flight control applications.
 - Designed entirely in Altium without SI simulation tools
 
 
-### Atmosense Z1 — Autonomous Greenhouse Monitoring Platform
+### Atmosense Z1 — Autonomous UAV Greenhouse Monitoring Platform
 Autonomous sensing payload for GNSS-denied indoor environments, spanning 
 GPS-denied perception through to ML-based spatial field reconstruction.
 
